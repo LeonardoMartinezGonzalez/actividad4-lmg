@@ -4,7 +4,7 @@ import { View, Text } from "react-native";
 export default function Articulo() {
     return (
         <View>
-            <Text>INICIO con cambio</Text>
+            <Text>INICIO</Text>
         </View>
     );
 }
